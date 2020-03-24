@@ -1,0 +1,135 @@
+Team,Seed,Opponent,OppSeed,PF,PA,WL,TeamID,OppTeamID
+Temple,11,Belmont,11,70,81,L,302,13
+Fairleigh Dickinson,16,Prairie View,16,82,76,W,279,267
+St. John's (NY),11,Arizona St.,11,65,74,L,59,235
+N.C. Central,16,North Dakota St.,16,74,78,L,266,96
+Fairleigh Dickinson,16,Gonzaga,1,49,87,L,279,1
+Bradley,15,Michigan St.,2,65,76,L,90,78
+Abilene Christian,15,Kentucky,2,44,79,L,173,190
+Montana,15,Michigan,2,55,74,L,304,160
+Yale,14,LSU,3,74,79,L,189,109
+Old Dominion,14,Purdue,3,48,61,L,275,203
+Vermont,13,Florida St.,4,69,76,L,168,193
+Northeastern,13,Kansas,4,53,87,L,88,169
+New Mexico St.,12,Auburn,5,77,78,L,119,129
+Murray St.,12,Marquette,5,83,64,W,72,33
+Belmont,11,Maryland,6,77,79,L,13,194
+Saint Mary's (CA),11,Villanova,6,57,61,L,18,208
+Minnesota,10,Louisville,7,86,76,W,181,134
+Florida,10,Nevada,7,70,61,W,219,69
+Seton Hall,10,Wofford,7,68,84,L,117,103
+Baylor,9,Syracuse,8,78,69,W,298,155
+Gardner-Webb,16,Virginia,1,56,71,L,289,349
+North Dakota St.,16,Duke,1,62,85,L,96,27
+Iona,16,North Carolina,1,73,88,L,351,281
+Colgate,15,Tennessee,2,70,77,L,64,318
+Northern Ky.,14,Texas Tech,3,57,72,L,41,242
+Georgia St.,14,Houston,3,55,84,L,24,130
+UC Irvine,13,Kansas St.,4,70,64,W,85,323
+Saint Louis,13,Virginia Tech,4,52,66,L,186,182
+Oregon,12,Wisconsin,5,72,54,W,47,222
+Liberty,12,Mississippi St.,5,80,76,W,198,230
+Arizona St.,11,Buffalo,6,74,91,L,235,20
+Ohio St.,11,Iowa St.,6,62,59,W,163,180
+Iowa,10,Cincinnati,7,79,72,W,50,166
+Oklahoma,9,Ole Miss,8,95,72,W,251,306
+Washington,9,Utah St.,8,78,61,W,143,7
+UCF,9,VCU,8,73,58,W,296,187
+Baylor,9,Gonzaga,1,71,83,L,298,1
+Wofford,7,Kentucky,2,56,62,L,103,190
+Florida,10,Michigan,2,49,64,L,219,160
+Minnesota,10,Michigan St.,2,50,70,L,181,78
+Maryland,6,LSU,3,67,69,L,194,109
+Villanova,6,Purdue,3,61,87,L,208,203
+Murray St.,12,Florida St.,4,62,90,L,72,193
+Auburn,5,Kansas,4,89,75,W,129,169
+Washington,9,North Carolina,1,59,81,L,143,281
+UCF,9,Duke,1,76,77,L,296,27
+Oklahoma,9,Virginia,1,51,63,L,251,349
+Iowa,10,Tennessee,2,77,83,L,50,318
+Buffalo,6,Texas Tech,3,58,78,L,20,242
+Ohio St.,11,Houston,3,59,74,L,163,130
+Liberty,12,Virginia Tech,4,58,67,L,198,182
+UC Irvine,13,Oregon,12,54,73,L,85,47
+Florida St.,4,Gonzaga,1,58,72,L,193,1
+Oregon,12,Virginia,1,49,53,L,47,349
+Purdue,3,Tennessee,2,99,94,W,203,318
+Texas Tech,3,Michigan,2,63,44,W,242,160
+Auburn,5,North Carolina,1,97,80,W,129,281
+Virginia Tech,4,Duke,1,73,75,L,182,27
+LSU,3,Michigan St.,2,63,80,L,109,78
+Houston,3,Kentucky,2,58,62,L,130,190
+Texas Tech,3,Gonzaga,1,75,69,W,242,1
+Purdue,3,Virginia,1,75,80,L,203,349
+Michigan St.,2,Duke,1,68,67,W,78,27
+Auburn,5,Kentucky,2,77,71,W,129,190
+Auburn,5,Virginia,1,62,63,L,129,349
+Texas Tech,3,Michigan St.,2,61,51,W,242,78
+Texas Tech,3,Virginia,1,77,85,L,242,349
+Belmont,11,Temple,11,81,70,W,13,302
+Prairie View,16,Fairleigh Dickinson,16,76,82,L,267,279
+Arizona St.,11,St. John's (NY),11,74,65,W,235,59
+North Dakota St.,16,N.C. Central,16,78,74,W,96,266
+Gonzaga,1,Fairleigh Dickinson,16,87,49,W,1,279
+Michigan St.,2,Bradley,15,76,65,W,78,90
+Kentucky,2,Abilene Christian,15,79,44,W,190,173
+Michigan,2,Montana,15,74,55,W,160,304
+LSU,3,Yale,14,79,74,W,109,189
+Purdue,3,Old Dominion,14,61,48,W,203,275
+Florida St.,4,Vermont,13,76,69,W,193,168
+Kansas,4,Northeastern,13,87,53,W,169,88
+Auburn,5,New Mexico St.,12,78,77,W,129,119
+Marquette,5,Murray St.,12,64,83,L,33,72
+Maryland,6,Belmont,11,79,77,W,194,13
+Villanova,6,Saint Mary's (CA),11,61,57,W,208,18
+Louisville,7,Minnesota,10,76,86,L,134,181
+Nevada,7,Florida,10,61,70,L,69,219
+Wofford,7,Seton Hall,10,84,68,W,103,117
+Syracuse,8,Baylor,9,69,78,L,155,298
+Virginia,1,Gardner-Webb,16,71,56,W,349,289
+Duke,1,North Dakota St.,16,85,62,W,27,96
+North Carolina,1,Iona,16,88,73,W,281,351
+Tennessee,2,Colgate,15,77,70,W,318,64
+Texas Tech,3,Northern Ky.,14,72,57,W,242,41
+Houston,3,Georgia St.,14,84,55,W,130,24
+Kansas St.,4,UC Irvine,13,64,70,L,323,85
+Virginia Tech,4,Saint Louis,13,66,52,W,182,186
+Wisconsin,5,Oregon,12,54,72,L,222,47
+Mississippi St.,5,Liberty,12,76,80,L,230,198
+Buffalo,6,Arizona St.,11,91,74,W,20,235
+Iowa St.,6,Ohio St.,11,59,62,L,180,163
+Cincinnati,7,Iowa,10,72,79,L,166,50
+Ole Miss,8,Oklahoma,9,72,95,L,306,251
+Utah St.,8,Washington,9,61,78,L,7,143
+VCU,8,UCF,9,58,73,L,187,296
+Gonzaga,1,Baylor,9,83,71,W,1,298
+Kentucky,2,Wofford,7,62,56,W,190,103
+Michigan,2,Florida,10,64,49,W,160,219
+Michigan St.,2,Minnesota,10,70,50,W,78,181
+LSU,3,Maryland,6,69,67,W,109,194
+Purdue,3,Villanova,6,87,61,W,203,208
+Florida St.,4,Murray St.,12,90,62,W,193,72
+Kansas,4,Auburn,5,75,89,L,169,129
+North Carolina,1,Washington,9,81,59,W,281,143
+Duke,1,UCF,9,77,76,W,27,296
+Virginia,1,Oklahoma,9,63,51,W,349,251
+Tennessee,2,Iowa,10,83,77,W,318,50
+Texas Tech,3,Buffalo,6,78,58,W,242,20
+Houston,3,Ohio St.,11,74,59,W,130,163
+Virginia Tech,4,Liberty,12,67,58,W,182,198
+Oregon,12,UC Irvine,13,73,54,W,47,85
+Gonzaga,1,Florida St.,4,72,58,W,1,193
+Virginia,1,Oregon,12,53,49,W,349,47
+Tennessee,2,Purdue,3,94,99,L,318,203
+Michigan,2,Texas Tech,3,44,63,L,160,242
+North Carolina,1,Auburn,5,80,97,L,281,129
+Duke,1,Virginia Tech,4,75,73,W,27,182
+Michigan St.,2,LSU,3,80,63,W,78,109
+Kentucky,2,Houston,3,62,58,W,190,130
+Gonzaga,1,Texas Tech,3,69,75,L,1,242
+Virginia,1,Purdue,3,80,75,W,349,203
+Duke,1,Michigan St.,2,67,68,L,27,78
+Kentucky,2,Auburn,5,71,77,L,190,129
+Virginia,1,Auburn,5,63,62,W,349,129
+Michigan St.,2,Texas Tech,3,51,61,L,78,242
+Virginia,1,Texas Tech,3,85,77,W,349,242
